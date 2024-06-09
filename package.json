@@ -1,0 +1,16 @@
+{
+  "name": "firefly-automation",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.11",
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
